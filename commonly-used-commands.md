@@ -11,8 +11,8 @@ sudo nano /etc/hosts
 sudo systemctl reboot
 
 > Reboot is required for changes to take effect.
->
-> ## Creating new sudo User
+
+## Creating new sudo User
 
 adduser username
 usermod -aG sudo username
