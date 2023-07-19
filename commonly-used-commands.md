@@ -15,4 +15,5 @@ sudo systemctl reboot
 ## Creating new sudo User
 
 adduser username
+
 usermod -aG sudo username
